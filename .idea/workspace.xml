@@ -2,8 +2,6 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="244842fc-630e-471e-a630-140f76ea696d" name="Default" comment="">
-      <change afterPath="$PROJECT_DIR$/0007-ReverseInteger.php" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/0001-TwoSum.php" beforeDir="false" afterPath="$PROJECT_DIR$/0001-TwoSum.php" afterDir="false" />
     </list>
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
@@ -18,8 +16,8 @@
       <file leaf-file-name="0001-TwoSum.php" pinned="false" current-in-tab="true">
         <entry file="file://$PROJECT_DIR$/0001-TwoSum.php">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="133">
-              <caret line="7" column="12" selection-start-line="7" selection-start-column="12" selection-end-line="7" selection-end-column="12" />
+            <state relative-caret-position="342">
+              <caret line="18" column="1" lean-forward="true" selection-start-line="18" selection-start-column="1" selection-end-line="18" selection-end-column="1" />
             </state>
           </provider>
         </entry>
@@ -41,8 +39,9 @@
   <component name="IdeDocumentHistory">
     <option name="CHANGED_PATHS">
       <list>
-        <option value="$PROJECT_DIR$/0001-TwoSum.php" />
         <option value="$PROJECT_DIR$/0007-ReverseInteger.php" />
+        <option value="$PROJECT_DIR$/TwoSum.php" />
+        <option value="$PROJECT_DIR$/0001-TwoSum.php" />
       </list>
     </option>
   </component>
@@ -110,16 +109,15 @@
       <option name="number" value="Default" />
       <option name="presentableId" value="Default" />
       <updated>1579420074467</updated>
-      <workItem from="1579420077374" duration="3008000" />
+      <workItem from="1579420077374" duration="3198000" />
     </task>
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="3008000" />
+    <option name="totallyTimeSpent" value="3198000" />
   </component>
   <component name="ToolWindowManager">
     <frame x="-7" y="-7" width="1550" height="838" extended-state="6" />
-    <editor active="true" />
     <layout>
       <window_info active="true" content_ui="combo" id="Project" order="0" visible="true" weight="0.24966443" />
       <window_info anchor="bottom" id="TODO" order="6" />
@@ -156,10 +154,17 @@
         </state>
       </provider>
     </entry>
+    <entry file="file://$PROJECT_DIR$/TwoSum.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="342">
+          <caret line="18" column="1" lean-forward="true" selection-start-line="18" selection-start-column="1" selection-end-line="18" selection-end-column="1" />
+        </state>
+      </provider>
+    </entry>
     <entry file="file://$PROJECT_DIR$/0001-TwoSum.php">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="133">
-          <caret line="7" column="12" selection-start-line="7" selection-start-column="12" selection-end-line="7" selection-end-column="12" />
+        <state relative-caret-position="342">
+          <caret line="18" column="1" lean-forward="true" selection-start-line="18" selection-start-column="1" selection-end-line="18" selection-end-column="1" />
         </state>
       </provider>
     </entry>

@@ -8,7 +8,7 @@
 class TwoSum {
     function twoSum($nums, $target) {
         for ($i = 0; $i < count($nums); $i++) {
-            for ($j = $+1; $j < count($nums); $j++) {
+            for ($j = $i+1; $j < count($nums); $j++) {
                 if ($nums[$j] == $target - $nums[$i]) {
                     $result = array($i, $j);
                     return $result;
