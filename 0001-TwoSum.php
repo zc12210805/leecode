@@ -5,7 +5,7 @@
  * Date: 1/19/2020
  * Time: 3:58 PM
  */
-class Solution {
+class TwoSum {
     function twoSum($nums, $target) {
         for ($i = 0; $i < count($nums); $i++) {
             for ($j = $+1; $j < count($nums); $j++) {
