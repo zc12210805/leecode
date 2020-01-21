@@ -2,7 +2,7 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="244842fc-630e-471e-a630-140f76ea696d" name="Default" comment="">
-      <change afterPath="$PROJECT_DIR$/0009-PalindromeNumber.php" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/0002-AddTwoNumbers.php" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
     </list>
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
@@ -18,16 +18,25 @@
         <entry file="file://$PROJECT_DIR$/0001-TwoSum.php">
           <provider selected="true" editor-type-id="text-editor">
             <state relative-caret-position="342">
-              <caret line="18" column="1" lean-forward="true" selection-start-line="18" selection-start-column="1" selection-end-line="18" selection-end-column="1" />
+              <caret line="18" column="1" selection-start-line="18" selection-start-column="1" selection-end-line="18" selection-end-column="1" />
             </state>
           </provider>
         </entry>
       </file>
-      <file leaf-file-name="0009-PalindromeNumber.php" pinned="false" current-in-tab="true">
+      <file leaf-file-name="0009-PalindromeNumber.php" pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/0009-PalindromeNumber.php">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="342">
-              <caret line="18" column="5" lean-forward="true" selection-start-line="18" selection-start-column="5" selection-end-line="18" selection-end-column="5" />
+            <state relative-caret-position="361">
+              <caret line="19" column="1" lean-forward="true" selection-start-line="19" selection-start-column="1" selection-end-line="19" selection-end-column="1" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="0002-AddTwoNumbers.php" pinned="false" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/0002-AddTwoNumbers.php">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="418">
+              <caret line="27" column="58" lean-forward="true" selection-start-line="27" selection-start-column="58" selection-end-line="27" selection-end-column="58" />
             </state>
           </provider>
         </entry>
@@ -53,6 +62,7 @@
         <option value="$PROJECT_DIR$/TwoSum.php" />
         <option value="$PROJECT_DIR$/0001-TwoSum.php" />
         <option value="$PROJECT_DIR$/0009-PalindromeNumber.php" />
+        <option value="$PROJECT_DIR$/0002-AddTwoNumbers.php" />
       </list>
     </option>
   </component>
@@ -121,18 +131,19 @@
       <option name="presentableId" value="Default" />
       <updated>1579420074467</updated>
       <workItem from="1579420077374" duration="4436000" />
-      <workItem from="1579508390774" duration="485000" />
+      <workItem from="1579508390774" duration="1085000" />
+      <workItem from="1579592280338" duration="1913000" />
     </task>
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="4921000" />
+    <option name="totallyTimeSpent" value="7434000" />
   </component>
   <component name="ToolWindowManager">
     <frame x="-7" y="-7" width="1550" height="838" extended-state="6" />
     <editor active="true" />
     <layout>
-      <window_info active="true" content_ui="combo" id="Project" order="0" visible="true" weight="0.25302014" />
+      <window_info active="true" content_ui="combo" id="Project" order="0" visible="true" weight="0.25637585" />
       <window_info anchor="bottom" id="TODO" order="6" />
       <window_info anchor="bottom" id="Docker" order="7" show_stripe_button="false" />
       <window_info anchor="bottom" id="Event Log" order="7" side_tool="true" />
@@ -170,7 +181,36 @@
     <entry file="file://$PROJECT_DIR$/0007-ReverseInteger.php">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="152">
+          <caret line="8" column="26" selection-start-line="8" selection-start-column="26" selection-end-line="8" selection-end-column="26" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/0009-PalindromeNumber.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="342">
+          <caret line="18" column="5" lean-forward="true" selection-start-line="18" selection-start-column="5" selection-end-line="18" selection-end-column="5" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/0001-TwoSum.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="342">
+          <caret line="18" column="1" lean-forward="true" selection-start-line="18" selection-start-column="1" selection-end-line="18" selection-end-column="1" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/0007-ReverseInteger.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="152">
           <caret line="8" column="26" lean-forward="true" selection-start-line="8" selection-start-column="26" selection-end-line="8" selection-end-column="26" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/TwoSum.php" />
+    <entry file="file://$PROJECT_DIR$/0001-TwoSum.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="342">
+          <caret line="18" column="1" selection-start-line="18" selection-start-column="1" selection-end-line="18" selection-end-column="1" />
         </state>
       </provider>
     </entry>
@@ -181,18 +221,17 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/TwoSum.php" />
-    <entry file="file://$PROJECT_DIR$/0001-TwoSum.php">
+    <entry file="file://$PROJECT_DIR$/0009-PalindromeNumber.php">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="342">
-          <caret line="18" column="1" lean-forward="true" selection-start-line="18" selection-start-column="1" selection-end-line="18" selection-end-column="1" />
+        <state relative-caret-position="361">
+          <caret line="19" column="1" lean-forward="true" selection-start-line="19" selection-start-column="1" selection-end-line="19" selection-end-column="1" />
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/0009-PalindromeNumber.php">
+    <entry file="file://$PROJECT_DIR$/0002-AddTwoNumbers.php">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="342">
-          <caret line="18" column="5" lean-forward="true" selection-start-line="18" selection-start-column="5" selection-end-line="18" selection-end-column="5" />
+        <state relative-caret-position="418">
+          <caret line="27" column="58" lean-forward="true" selection-start-line="27" selection-start-column="58" selection-end-line="27" selection-end-column="58" />
         </state>
       </provider>
     </entry>
