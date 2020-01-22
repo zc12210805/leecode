@@ -2,8 +2,9 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="244842fc-630e-471e-a630-140f76ea696d" name="Default" comment="">
-      <change afterPath="$PROJECT_DIR$/0002-AddTwoNumbers.php" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/0003-LongestSubstrWithoutRepeating.php" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/0007-ReverseInteger.php" beforeDir="false" afterPath="$PROJECT_DIR$/0007-ReverseInteger.php" afterDir="false" />
     </list>
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
     <option name="TRACKING_ENABLED" value="true" />
@@ -32,11 +33,20 @@
           </provider>
         </entry>
       </file>
-      <file leaf-file-name="0002-AddTwoNumbers.php" pinned="false" current-in-tab="true">
+      <file leaf-file-name="0002-AddTwoNumbers.php" pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/0002-AddTwoNumbers.php">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="418">
-              <caret line="27" column="58" lean-forward="true" selection-start-line="27" selection-start-column="58" selection-end-line="27" selection-end-column="58" />
+            <state relative-caret-position="475">
+              <caret line="30" column="1" lean-forward="true" selection-start-line="30" selection-start-column="1" selection-end-line="30" selection-end-column="1" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="0003-LongestSubstrWithoutRepeating.php" pinned="false" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/0003-LongestSubstrWithoutRepeating.php">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="361">
+              <caret line="19" column="40" selection-start-line="19" selection-start-column="40" selection-end-line="19" selection-end-column="40" />
             </state>
           </provider>
         </entry>
@@ -44,8 +54,8 @@
       <file leaf-file-name="0007-ReverseInteger.php" pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/0007-ReverseInteger.php">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="152">
-              <caret line="8" column="26" selection-start-line="8" selection-start-column="26" selection-end-line="8" selection-end-column="26" />
+            <state relative-caret-position="133">
+              <caret line="7" column="19" selection-start-line="7" selection-start-column="19" selection-end-line="7" selection-end-column="19" />
             </state>
           </provider>
         </entry>
@@ -58,11 +68,12 @@
   <component name="IdeDocumentHistory">
     <option name="CHANGED_PATHS">
       <list>
-        <option value="$PROJECT_DIR$/0007-ReverseInteger.php" />
         <option value="$PROJECT_DIR$/TwoSum.php" />
         <option value="$PROJECT_DIR$/0001-TwoSum.php" />
         <option value="$PROJECT_DIR$/0009-PalindromeNumber.php" />
         <option value="$PROJECT_DIR$/0002-AddTwoNumbers.php" />
+        <option value="$PROJECT_DIR$/0007-ReverseInteger.php" />
+        <option value="$PROJECT_DIR$/0003-LongestSubstrWithoutRepeating.php" />
       </list>
     </option>
   </component>
@@ -132,12 +143,12 @@
       <updated>1579420074467</updated>
       <workItem from="1579420077374" duration="4436000" />
       <workItem from="1579508390774" duration="1085000" />
-      <workItem from="1579592280338" duration="1913000" />
+      <workItem from="1579592280338" duration="4016000" />
     </task>
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="7434000" />
+    <option name="totallyTimeSpent" value="9537000" />
   </component>
   <component name="ToolWindowManager">
     <frame x="-7" y="-7" width="1550" height="838" extended-state="6" />
@@ -214,13 +225,6 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/0007-ReverseInteger.php">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="152">
-          <caret line="8" column="26" selection-start-line="8" selection-start-column="26" selection-end-line="8" selection-end-column="26" />
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/0009-PalindromeNumber.php">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="361">
@@ -230,8 +234,22 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/0002-AddTwoNumbers.php">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="418">
-          <caret line="27" column="58" lean-forward="true" selection-start-line="27" selection-start-column="58" selection-end-line="27" selection-end-column="58" />
+        <state relative-caret-position="475">
+          <caret line="30" column="1" lean-forward="true" selection-start-line="30" selection-start-column="1" selection-end-line="30" selection-end-column="1" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/0007-ReverseInteger.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="133">
+          <caret line="7" column="19" selection-start-line="7" selection-start-column="19" selection-end-line="7" selection-end-column="19" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/0003-LongestSubstrWithoutRepeating.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="361">
+          <caret line="19" column="40" selection-start-line="19" selection-start-column="40" selection-end-line="19" selection-end-column="40" />
         </state>
       </provider>
     </entry>

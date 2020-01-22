@@ -5,7 +5,7 @@
  * Date: 1/19/2020
  * Time: 4:47 PM
  */
-class ReverseInter {
+class ReverseInteger {
     function reverse($x) {
         $f = ($x<0)?true:false;
         $x = $f?abs($x):$x;
